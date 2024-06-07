@@ -15,9 +15,9 @@ export class ExperiencesComponent {
     {
       summary: {
         strong: 'Estágio Full-stack Developer',
-        p: 'FOCO Aluguel de Carros | Abril 2024 - Present',
+        p: 'DUO Technology | Abril 2024 - Present',
       },
-      text: '<p>Desde Abril de 2024, atuo como Estágiario na Foco Aluguel de Carros, destacando-me na área de Full-Stack Developer, utilizando Html5, Css3, Javascript, TypeScript, Angular 2+, NodeJs, Postman, PostgreSQL, MySQL e MongoDB.<p/>',
+      text: '<p>Desde Abril de 2024, atuo como Estágiario na DUO Technology, destacando-me na área de Full-Stack Developer, utilizando Html5, Css3, Javascript, TypeScript, Angular 2+, NodeJs, Postman, PostgreSQL, MySQL e MongoDB.<p/>',
     },
   ]);
 }

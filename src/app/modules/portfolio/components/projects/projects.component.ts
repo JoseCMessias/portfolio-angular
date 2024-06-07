@@ -24,6 +24,20 @@ export class ProjectsComponent {
 
   public arrayProjects = signal<IProjects[]>([
     {
+      src: 'assets/img/projects/biblioteca.png',
+      alt: 'Sistema de cadastro de uma biblioteca',
+      title: 'Biblioteca',
+      width: '100px',
+      height: '51px',
+      description: '<p>Desenvolvimento de um sistema completo CRUD para gerenciamento de autores, editoras e livros em uma biblioteca. Esta aplicação abrange as tecnologias Angular para o frontend, Node.js para o backend e PostgreSQL para o banco de dados.<p/>',
+      links: [
+        {
+          name: 'Conheça o projeto no Github',
+          href: 'https://github.com/JoseCMessias/biblioteca-angular.git'
+        },
+      ],
+    },
+    {
       src: 'assets/img/projects/acessoDB.png',
       alt: 'Acessor privativo usando JWT',
       title: 'Acesso DB',
