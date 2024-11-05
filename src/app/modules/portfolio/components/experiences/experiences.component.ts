@@ -15,9 +15,16 @@ export class ExperiencesComponent {
     {
       summary: {
         strong: 'Estágio Full-stack Developer',
-        p: 'DUO Technology | Abril 2024 - Present',
+        p: 'DUO Technology | Abril 2024 - Outubro 2024',
       },
-      text: '<p>Desde Abril de 2024, atuo como Estágiario na DUO Technology, destacando-me na área de Full-Stack Developer, utilizando Html5, Css3, Javascript, TypeScript, Angular 2+, NodeJs, Postman, PostgreSQL, MySQL e MongoDB.<p/>',
+      text: '<p>De abril de 2024 a outubro de 2024, atuei como Estagiário na DUO Technology, destacando-me na área de Full-Stack Developer, utilizando HTML5, CSS3, JavaScript, TypeScript, Angular 2+, Node.js, Postman, PostgreSQL, MySQL e MongoDB.</p>',
+    },
+    {
+      summary: {
+        strong: 'Trainee Software Developer',
+        p: 'DUO Technology | Outubro 2024 - Present',
+      },
+      text: '<p>Desde Outubro de 2024, atuo como Trainee na DUO Technology, destacando-me na área de Software Developer, utilizando Javascript, TypeScript, Angular, Node, Postman, PostgreSQL, Low-Code, No-Code e Mendix Studio Pro.<p/>',
     },
   ]);
 }
